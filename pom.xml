@@ -6,7 +6,6 @@
     <artifactId>EDUCASI_MAVEN</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
-
     <name>EDUCASI_MAVEN</name> 
 
     <properties>
